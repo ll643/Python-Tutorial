@@ -87,7 +87,7 @@ Equations can be copied directly from the lab manual by clicking on the equation
 $$A=\log \left(\frac{P_{o} }{P} \right)$$
 
 
-# Assignment
+# Lynn Li (ll643) Python Assignment
 
 1) Find a set of data that includes units (or make one up!) that could reasonably be fit with linear regression.
 1) Save the data to a tab delimited file in your atom project workspace.
@@ -97,7 +97,6 @@ $$A=\log \left(\frac{P_{o} }{P} \right)$$
 1) Add a figure in Markdown showing the graph you produced.
 1) Show the linear regression equation that you obtained using latex.
 
-Lynn Li Python Assignment
 ```
 from aguaclara.core.units import unit_registry as u
 import numpy as np
@@ -126,3 +125,4 @@ plt.savefig('C:/Users/LynnLi/Desktop/Figure1')
 plt.show()
 ```
 $$y=x+0.5$$
+![linear](https://github.com/ll643/PythonTutorial/blob/master/Figure1.png)
