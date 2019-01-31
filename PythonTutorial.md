@@ -126,4 +126,4 @@ plt.savefig('C:/Users/LynnLi/Desktop/Figure1')
 plt.show()
 ```
 ![linear](https://github.com/ll643/PythonTutorial/blob/master/Figure1.png)
-$$ y=x+0.5 $$
+$$y=x+0.5$$
