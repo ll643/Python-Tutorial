@@ -123,3 +123,4 @@ ax.legend(['Measured', 'Linear regression'])
 ax.grid(True)
 plt.savefig('C:/Users/LynnLi/Desktop/Figure1')
 plt.show()
+https://github.com/ll643/PythonTutorial/blob/master/Figure1.png
