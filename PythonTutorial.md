@@ -97,6 +97,7 @@ $$A=\log \left(\frac{P_{o} }{P} \right)$$
 1) Add a figure in Markdown showing the graph you produced.
 1) Show the linear regression equation that you obtained using latex.
 
+Lynn Li Python Assignment
 ```
 from aguaclara.core.units import unit_registry as u
 import numpy as np
@@ -123,4 +124,9 @@ ax.legend(['Measured', 'Linear regression'])
 ax.grid(True)
 plt.savefig('C:/Users/LynnLi/Desktop/Figure1')
 plt.show()
+<<<<<<< HEAD
+=======
+```
+![linear](https://github.com/ll643/PythonTutorial/blob/master/Figure1.png)
+>>>>>>> b8fcd002df9fe8ab424a505760938a7df17a8331
 $$y=x+0.5$$
